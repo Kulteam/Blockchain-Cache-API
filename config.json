@@ -1,0 +1,22 @@
+{
+  "bindIp": "0.0.0.0",
+  "httpPort": 80,
+  "corsHeader": "*",
+  "coinDecimals": 6,
+  "defaultMixins": 3,
+  "emissionSpeed": 21,
+  "maxSupply": 100000000,
+  "queues": {
+    "relayAgent": "request.network"
+  },
+  "nodeFee": {
+    "address": "",
+    "amount": 0
+  },
+  "blacklistedIps": [],
+  "useCompression": false,
+  "useNodeMonitor": false,
+  "usePoolMonitor": false,
+  "useRedisCache": false,
+  "checkPointsDomain": ""
+}
