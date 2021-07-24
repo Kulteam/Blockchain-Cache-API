@@ -41,10 +41,10 @@ cd Blockchain-Cache-API && npm install
 4) Fire up the script
 
 ```bash
-export RABBIT_PUBLIC_SERVER=localhost
+export RABBIT_PUBLIC_SERVER=127.0.0.1
 export RABBIT_PUBLIC_USERNAME=yourrabbitmqusername
 export RABBIT_PUBLIC_PASSWORD=yourrabbitmqpassword
-export MYSQL_HOST=localhost
+export MYSQL_HOST=127.0.0.1
 export MYSQL_PORT=3306
 export MYSQL_USERNAME=yourdbusername
 export MYSQL_PASSWORD=yourdbpassword
