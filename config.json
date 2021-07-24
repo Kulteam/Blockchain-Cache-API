@@ -2,7 +2,7 @@
   "bindIp": "0.0.0.0",
   "httpPort": 80,
   "corsHeader": "*",
-  "coinDecimals": 6,
+  "coinDecimals": 9,
   "defaultMixins": 3,
   "emissionSpeed": 21,
   "maxSupply": 100000000,
@@ -14,9 +14,9 @@
     "amount": 0
   },
   "blacklistedIps": [],
-  "useCompression": false,
-  "useNodeMonitor": false,
-  "usePoolMonitor": false,
+  "useCompression": true,
+  "useNodeMonitor": true,
+  "usePoolMonitor": true,
   "useRedisCache": false,
   "checkPointsDomain": ""
 }
