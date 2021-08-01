@@ -18,5 +18,5 @@
   "useNodeMonitor": true,
   "usePoolMonitor": true,
   "useRedisCache": false,
-  "checkPointsDomain": ""
+  "checkPointsDomain": "ipfs.moncoin.io"
 }
